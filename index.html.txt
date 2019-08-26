@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 comentario 2
+=======
+>>>>>>> parent of 5a050c3... Se le agrego un comentario
